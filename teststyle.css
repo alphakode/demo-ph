@@ -1,0 +1,8 @@
+.para{
+    border: 10px solid brown;
+    background-color: lightgray;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    padding: 5px;
+}
